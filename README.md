@@ -2,7 +2,7 @@ Hello, this is HowardLeo's Github.
 
 I'm a college student now, and I am learning frontend and backend. And I also interested electronic design. 
 
-My Blog is: [Blog](http://blog.howardleo.xyz),  and I will share some of my experiences in programming, trainning an AI and so on.
+My Blog is: [Blog](http://blog.howardleo.top),  and I will share some of my experiences in programming, trainning an AI and so on.
 
 
 
